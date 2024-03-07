@@ -1,0 +1,24 @@
+{
+  "name": "haley_opera-",
+  "version": "1.0.0",
+  "description": "test_oliva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/attiakhil34/Haley_opera-.git"
+  },
+  "dependencies": {
+    "earn_points_tea": "^1.0.0",
+    "blochain_tea_aps--": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attiakhil34/Haley_opera-/issues"
+  },
+  "homepage": "https://github.com/attiakhil34/Haley_opera-#readme"
+}
